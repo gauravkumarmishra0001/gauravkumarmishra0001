@@ -459,8 +459,6 @@ If you like my work, consider following me and exploring my repositories.
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/gauravkumarmishra0001/gauravkumarmishra0001/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/gauravkumarmishra0001/gauravkumarmishra0001/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 
 </p>
-
----
