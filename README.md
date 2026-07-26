@@ -453,3 +453,14 @@ If you like my work, consider following me and exploring my repositories.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=footer"/>
 
 </div>
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/gauravkumarmishra0001/gauravkumarmishra0001/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
