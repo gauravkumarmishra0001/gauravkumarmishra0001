@@ -17,7 +17,7 @@
 # 💻 Hacker Terminal
 
 ```text
-gaurav@github
+gaurav.kumarmishra0001@github
 ────────────────────────────────────────────────────────────
 
 OS:                 Microsoft Windows 11 Home
