@@ -125,3 +125,194 @@ I enjoy converting research ideas into real-world software that solves practical
 [![Resume](https://img.shields.io/badge/Download%20Resume-PDF-red?style=for-the-badge)](./assets/GauravKumar_Mishra_CV%20(1).pdf)
 
 ---
+# 💻 Tech Stack
+
+<div align="center">
+
+### Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,c" />
+</p>
+
+### Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react" />
+</p>
+
+### Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### DevOps & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,aws,linux" />
+</p>
+
+### IDE & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,pycharm,eclipse" />
+</p>
+
+</div>
+
+---
+
+# 🔬 Research Interests
+
+```text
+Artificial Intelligence
+
+Machine Learning
+
+Deep Learning
+
+Natural Language Processing
+
+Information Retrieval
+
+Generative AI
+
+Large Language Models
+
+Cybersecurity
+
+Cloud Computing
+
+Software Engineering
+```
+
+---
+
+# 📚 Research & Publications
+
+## 📝 Conference Presentation
+
+**Beyond Overfitting: A Deep Dive into Regularization Techniques for Robust Neural Learning**
+
+Presented at:
+
+**ComSIA 2026 – 3rd International Conference on Computing Systems and Intelligent Applications**
+
+Research Areas
+
+- Deep Learning
+- Neural Networks
+- Regularization Techniques
+- Artificial Intelligence
+- Machine Learning
+
+---
+
+# 💼 Internship Experience
+
+## Network Security & IT Infrastructure Intern
+
+**Pacific Office Care Pvt. Ltd.**
+
+Duration:
+
+**3 Months**
+
+Responsibilities
+
+- Enterprise Network Infrastructure
+- Network Security
+- Firewall Configuration
+- Cisco Networking
+- Router & Switch Configuration
+- ACL Management
+- Endpoint Security
+- Server Administration
+- Windows Deployment
+- Vulnerability Patching
+- CCTV & PoE Infrastructure
+- Systems Engineering
+
+---
+
+# 🏅 Certifications
+
+- Google Cybersecurity Professional Certificate
+- IBM Software Engineering
+- IBM DevOps
+- AWS Academy Cloud Foundations
+- IEEE Computer Society
+- IIM Ahmedabad Certification
+
+---
+
+# 🚀 Featured Projects
+
+### 🧠 FEVER Verdict
+
+AI-powered fact verification system using Natural Language Processing and Information Retrieval.
+
+---
+
+### 🌐 Portfolio Website
+
+Modern responsive portfolio built using HTML, CSS, JavaScript and React.
+
+---
+
+### 🤖 AI Research Projects
+
+Research focused on
+
+- NLP
+- Information Retrieval
+- Machine Learning
+- Deep Learning
+- Generative AI
+
+---
+
+# 📈 GitHub Statistics
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=gauravkumarmishra0001&show_icons=true&theme=tokyonight"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravkumarmishra0001&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravkumarmishra0001&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=gauravkumarmishra0001&theme=tokyonight&row=2&column=4"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gauravkumarmishra0001&theme=tokyo-night"/>
+
+</p>
+
+---
