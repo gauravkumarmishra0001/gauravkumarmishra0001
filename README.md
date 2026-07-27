@@ -24,7 +24,7 @@
 # 💻 Hacker Terminal
 
 ```text
-gaurav.kumarmishra0001@github
+gauravkumarmishra0001@github
 ────────────────────────────────────────────────────────────
 
 OS:                 Microsoft Windows 11 Home
@@ -397,7 +397,6 @@ If you like my work, consider following me and exploring my repositories.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=footer"/>
 
 </div>
----
 
 # 🐍 Contribution Snake
 
