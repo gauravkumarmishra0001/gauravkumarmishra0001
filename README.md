@@ -57,6 +57,7 @@ Security:           Cybersecurity
 Languages.Real:     English
                     Nepali
                     Maithili
+                    Hindi
                     Odia
                     Bengali
 
