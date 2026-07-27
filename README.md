@@ -67,9 +67,9 @@ Hobbies:            Singing
                     Mobile App Development
 
 Current Goal:       Google Software Engineer
----
 
-# 🧠 About Me
+
+ 🧠 About Me
 
 I am a Computer Science & Engineering student passionate about building intelligent software systems, conducting AI research, securing modern infrastructure, and developing scalable business-oriented applications.
 
@@ -86,11 +86,11 @@ My interests include:
 
 I enjoy converting research ideas into real-world software that solves practical problems.
 
----
 
-# 🚀 Current Focus
 
-```text
+ 🚀 Current Focus
+
+
 ✓ Artificial Intelligence
 
 ✓ Machine Learning
