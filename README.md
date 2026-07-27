@@ -379,21 +379,28 @@ GGPBYY?YYJ77!!7YYG&#G!!JP57???YY5P?YJY5PGB@&&#BBGBGB##&&#GP5YYGBBGJYPBBPP####&BB
 
 ---
 
-## 🌐 Connect With Me
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
 
-<!-- Personal Email -->
 <a href="mailto:gaurav.kumarmishra0001@gmail.com">
 <img src="https://img.shields.io/badge/Personal_Email-gaurav.kumarmishra0001%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-<br><br>
+</p>
 
-<!-- College Email -->
+<p align="center">
+
 <a href="mailto:23053718@kiit.ac.in">
 <img src="https://img.shields.io/badge/KIIT_Email-23053718%40kiit.ac.in-0A66C2?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
+
+</p>
+
+<p align="center">
+
 <a href="https://github.com/gauravkumarmishra0001">
 <img src="https://img.shields.io/badge/GitHub-gauravkumarmishra0001-181717?style=for-the-badge&logo=github">
 </a>
@@ -405,8 +412,10 @@ GGPBYY?YYJ77!!7YYG&#G!!JP57???YY5P?YJY5PGB@&&#BBGBGB##&&#GP5YYGBBGJYPBBPP####&BB
 <a href="https://www.linkedin.com/in/gaurav-kumar-mishra-4397563a9/">
 <img src="https://img.shields.io/badge/LinkedIn-Gaurav_Mishra-0077B5?style=for-the-badge&logo=linkedin">
 </a>
+
 </p>
 
+---
 
 # 💬 Favourite Quote
 
