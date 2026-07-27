@@ -13,12 +13,15 @@
 </div>
 
 ---
+<div align="center">
+
+<img src="assets/images/Gaurav_ASCII_Portrait.png"
+     alt="Gaurav Kumar Mishra"
+     width="420"/>
+
+</div>
+
 # 💻 Hacker Terminal
-
-<table>
-<tr>
-
-<td valign="top">
 
 ```text
 gaurav.kumarmishra0001@github
@@ -46,8 +49,8 @@ Research:           Artificial Intelligence
                     Natural Language Processing
 
 Security:           Cybersecurity
-                    OWASP
                     Network Security
+                    OWASP
                     SIEM
                     IDS
 
@@ -63,19 +66,6 @@ Hobbies:            Singing
                     Mobile App Development
 
 Current Goal:       Google Software Engineer
-```
-
-</td>
-
-<td align="center" width="42%">
-  <img
-    src="assets/images/Gaurav_ASCII_Portrait.png"
-    alt="Gaurav Kumar Mishra"
-    style="width:100%; max-width:420px;"
-  />
-</td>
-</tr>
-</table>
 ---
 
 # 🧠 About Me
