@@ -46,6 +46,7 @@ Research:           Artificial Intelligence
                     Natural Language Processing
 
 Security:           Cybersecurity
+                    OWASP
                     Network Security
                     SIEM
                     IDS
