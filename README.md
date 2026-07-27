@@ -222,7 +222,7 @@ Research Areas
 
 ---
 
-# 🏅 Certifications
+# 🏅 Certifications & Achievements
 
 - 📜 [Google Cybersecurity Professional Certificate](assets/certificates/Google_Cyber_Security_Verified_Certificate.pdf)
 - 📜 [ComSIA 2026 Conference Certificate](assets/certificates/ComSIA2026_Certificate.pdf)
