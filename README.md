@@ -65,14 +65,13 @@ Current Goal:       Google Software Engineer
 
 </td>
 
-<td align="center" width="320">
-
-<img src="assets/images/Gaurav_ASCII_Portrait.png"
-     alt="Gaurav Kumar Mishra"
-     width="260"/>
-
+<td align="center" width="42%">
+  <img
+    src="assets/images/Gaurav_ASCII_Portrait.png"
+    alt="Gaurav Kumar Mishra"
+    style="width:100%; max-width:420px;"
+  />
 </td>
-
 </tr>
 </table>
 ---
