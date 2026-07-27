@@ -13,8 +13,12 @@
 </div>
 
 ---
-
 # 💻 Hacker Terminal
+
+<table>
+<tr>
+
+<td valign="top">
 
 ```text
 gaurav.kumarmishra0001@github
@@ -59,12 +63,18 @@ Hobbies:            Singing
 Current Goal:       Google Software Engineer
 ```
 
-<p align="center">
-  <img src="assets/images/Gaurav_ASCII_Portrait.png"
-       alt="Gaurav Kumar Mishra"
-       width="300">
-</p>
+</td>
 
+<td align="center" width="320">
+
+<img src="assets/images/Gaurav_ASCII_Portrait.png"
+     alt="Gaurav Kumar Mishra"
+     width="260"/>
+
+</td>
+
+</tr>
+</table>
 ---
 
 # 🧠 About Me
