@@ -229,7 +229,7 @@ Research Areas
 - 📜 [IBM Introduction to Software Engineering](assets/certificates/IBM_Introduction_to_Software_Engineering.pdf)
 - 📜 [IBM Introduction to DevOps](assets/certificates/IBM_Introduction_to_DevOps.pdf)
 - 📜 [IBM Exploratory Data Analysis for Machine Learning](assets/certificates/IBM_Exploratory_Data_Analysis_for_Machine_Learning.pdf)
-- 📜 [AWS Academy Cloud Foundations](assets/certificates/Grades_for_AWS_Academy_Cloud_Foundations.pdf)
+- 📜 [AWS Academy Cloud Foundations – Grade Report](assets/certificates/Grades_for_AWS_Academy_Cloud_Foundations.pdf)
 - 📜 [IIM Ahmedabad – Strategy and Game Theory for Management](assets/certificates/IIM_Ahmedabad_Strategy_and_Game_Theory_for_Management.pdf)
 
 ---
