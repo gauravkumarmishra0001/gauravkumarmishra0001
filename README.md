@@ -224,11 +224,11 @@ Research Areas
 
 # 🏅 Certifications
 
-- Google Cybersecurity Professional Certificate
+- 📜 [Google Cybersecurity Professional Certificate](assets/certificates/Google_Cyber_Security_Verified_Certificate.pdf)
+- 📜 [ComSIA 2026 Conference Certificate](assets/certificates/ComSIA2026_Certificate.pdf)
 - IBM Software Engineering
 - IBM DevOps
 - AWS Academy Cloud Foundations
-- IEEE Computer Society
 - IIM Ahmedabad Certification
 
 ---
