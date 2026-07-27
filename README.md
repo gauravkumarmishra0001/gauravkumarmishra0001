@@ -226,10 +226,11 @@ Research Areas
 
 - 📜 [Google Cybersecurity Professional Certificate](assets/certificates/Google_Cyber_Security_Verified_Certificate.pdf)
 - 📜 [ComSIA 2026 Conference Certificate](assets/certificates/ComSIA2026_Certificate.pdf)
-- IBM Software Engineering
-- IBM DevOps
-- AWS Academy Cloud Foundations
-- IIM Ahmedabad Certification
+- 📜 [IBM Introduction to Software Engineering](assets/certificates/IBM_Introduction_to_Software_Engineering.pdf)
+- 📜 [IBM Introduction to DevOps](assets/certificates/IBM_Introduction_to_DevOps.pdf)
+- 📜 [IBM Exploratory Data Analysis for Machine Learning](assets/certificates/IBM_Exploratory_Data_Analysis_for_Machine_Learning.pdf)
+- 📜 [AWS Academy Cloud Foundations](assets/certificates/Grades_for_AWS_Academy_Cloud_Foundations.pdf)
+- 📜 [IIM Ahmedabad – Strategy and Game Theory for Management](assets/certificates/IIM_Ahmedabad_Strategy_and_Game_Theory_for_Management.pdf)
 
 ---
 
@@ -382,10 +383,17 @@ GGPBYY?YYJ77!!7YYG&#G!!JP57???YY5P?YJY5PGB@&&#BBGBGB##&&#GP5YYGBBGJYPBBPP####&BB
 
 <p align="center">
 
+<!-- Personal Email -->
 <a href="mailto:gaurav.kumarmishra0001@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-gaurav.kumarmishra0001%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/Personal_Email-gaurav.kumarmishra0001%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
+<br><br>
+
+<!-- College Email -->
+<a href="mailto:23053718@kiit.ac.in">
+<img src="https://img.shields.io/badge/KIIT_Email-23053718%40kiit.ac.in-0A66C2?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 <a href="https://github.com/gauravkumarmishra0001">
 <img src="https://img.shields.io/badge/GitHub-gauravkumarmishra0001-181717?style=for-the-badge&logo=github">
 </a>
