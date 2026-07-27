@@ -55,6 +55,7 @@ Languages.Real:     English
                     Nepali
                     Maithili
                     Odia
+                    Bengali
 
 Hobbies:            Singing
                     Research
